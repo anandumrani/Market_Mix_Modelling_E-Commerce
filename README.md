@@ -10,3 +10,5 @@ The client, Eleckart, is a prominent Ontario-based e-commerce chain specializing
 6. **Lack of Market Mix Modeling:** The absence of market mix modeling makes it challenging to assess the effectiveness of marketing strategies and allocate resources optimally, further impacting revenue and profitability.
 ## Objectives
 To develop a market mix model based on the given information and the data sets related to consumer purchases, monthly spends on advertising channels, climatic information and the NPS/stock index.
+## Summary of the Models Build and Evaluated
+![models_summary](https://github.com/anandumrani/Market_Mix_Modelling_E-Commerce/assets/105964876/17929206-ccb0-4569-a150-ecfb9942a568)
